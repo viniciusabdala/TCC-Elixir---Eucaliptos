@@ -1,0 +1,33 @@
+{
+  "inicio": "n1",
+  "falas": [
+    {
+      "id": "n1",
+      "personagem": "Carlos Dias",
+      "sprite": "carlosSerio",
+      "texto": "Ah, tem uma fonte no meio da praça",
+      "proximo": "n2"
+    },
+    {
+      "id": "n2",
+      "personagem": "Carlos Dias",
+      "sprite": "carlosSerio",
+      "texto": "É uma fonte bem bonita",
+      "proximo": "n3"
+    },
+    {
+      "id": "n3",
+      "personagem": "Carlos Dias",
+      "sprite": "carlosSerio",
+      "texto": "Espera, o que esse anjinho ta fazendo..?",
+      "proximo": "n4"
+    },
+    {
+      "id": "n4",
+      "personagem": "Carlos Dias",
+      "sprite": "carlosFeliz",
+      "texto": "Eu deveria tirar foto disso aqui alguma outra hora.",
+      "proximo": ""
+    }
+  ]
+}

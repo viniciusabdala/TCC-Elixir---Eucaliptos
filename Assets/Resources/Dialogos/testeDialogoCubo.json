@@ -1,0 +1,57 @@
+{
+  "inicio": "n1",
+  "falas": [
+    {
+      "id": "n1",
+      "personagem": "Carlos Dias",
+      "sprite": "carlosSerio",
+      "texto": "Espera... você está falando?",
+      "proximo": "n2"
+    },
+    {
+      "id": "n2",
+      "personagem": "Cubo",
+      "sprite": "",
+      "texto": "Estou! Eu mesmo me surpreendi quando aconteceu.",
+      "proximo": "n3"
+    },
+    {
+      "id": "n3",
+      "personagem": "Cubo",
+      "sprite": "",
+      "texto": "Para ser sincero, também não sei como. Você acha estranho eu falar?",
+      "escolhas": [
+        { "texto": "Muito estranho!", "proximo": "n4" },
+        { "texto": "Até que combina com você.", "proximo": "n5" }
+      ]
+    },
+    {
+      "id": "n4",
+      "personagem": "Cubo",
+      "sprite": "",
+      "texto": "Pois é! Imagina eu, que nem tenho cérebro.",
+      "proximo": "n6"
+    },
+    {
+      "id": "n5",
+      "personagem": "Cubo",
+      "sprite": "",
+      "texto": "Obrigado! Ninguém nunca tinha me dito isso.",
+      "proximo": "n6"
+    },
+    {
+      "id": "n6",
+      "personagem": "Carlos Dias",
+      "sprite": "carlosFeliz",
+      "texto": "Bom, foi uma conversa surpreendente.",
+      "proximo": "n7"
+    },
+    {
+      "id": "n7",
+      "personagem": "Cubo",
+      "sprite": "",
+      "texto": "Volte quando quiser. Não vou a lugar nenhum, sou um cubo.",
+      "proximo": ""
+    }
+  ]
+}

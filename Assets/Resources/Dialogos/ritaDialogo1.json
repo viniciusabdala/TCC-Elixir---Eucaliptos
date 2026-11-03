@@ -1,0 +1,54 @@
+{
+  "inicio": "n1",
+  "falas": [
+    {
+      "id": "n1",
+      "personagem": "Carlos Dias",
+      "sprite": "carlosSerio",
+      "texto": "Rita...",
+      "proximo": "n2"
+    },
+    {
+      "id": "n2",
+      "personagem": "Rita Santana",
+      "sprite": "carlosSerio",
+      "texto": "Uhmm...?",
+      "proximo": "n3"
+    },
+    {
+      "id": "n3",
+      "personagem": "Carlos Dias",
+      "sprite": "carlosSerio",
+      "texto": "RITA!",
+      "proximo": "n4"
+    },
+    {
+      "id": "n4",
+      "personagem": "Rita Santana",
+      "sprite": "carlosSerio",
+      "texto": "Carlos? O que aconteceu com você?",
+      "proximo": "n5"
+    },
+    {
+    "id": "n5",
+      "personagem": "Carlos Dias",
+      "sprite": "carlosSerio",
+      "texto": "Rita, você já sentiu como é ser um pequeno cilindro?",
+      "proximo": "n6"
+    },
+    {
+      "id": "n6",
+      "personagem": "Carlos Dias",
+      "sprite": "carlosSerio",
+      "texto": "Eucaliptos vai sentir minha dor...",
+      "proximo": "n7"
+    },
+    {
+      "id": "n7",
+      "personagem": "Rita Santana",
+      "sprite": "carlosSerio",
+      "texto": "Tudo bem...? Só... uhh, não esqueca as fotos...",
+      "proximo": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "inicio": "n1",
+  "falas": [
+    {
+      "id": "n1",
+      "personagem": "Carlos Dias",
+      "sprite": "carlosSerio",
+      "texto": "Bom... Isso definitivamente é uma árvore..!",
+      "proximo": "n2"
+    },
+    {
+      "id": "n2",
+      "personagem": "Árvore",
+      "sprite": "",
+      "texto": "Socorro! Tem um sagui dentro de mim!",
+      "proximo": ""
+    }
+  ]
+}
